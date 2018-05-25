@@ -1,0 +1,18 @@
+header {
+	background-image: url("img/travel.jpg");
+	height: 230px;
+	background-size: contain;
+	margin-bottom: 10px;
+	line-height: 230px;
+}
+
+header h1 {
+	line-height: 230px;
+padding-left: 20px;
+}
+
+
+
+img {
+	width: 100%;
+}
